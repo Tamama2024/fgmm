@@ -14,16 +14,15 @@ const FormAutoFill = new Vue({
     person: {},
 
     // Google Form 的 action URL
-    formAction: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeNBnd-yVJ7_-tMq5xaQrvt0j18UtabCFBTM0Eu2O3ivDecuQ/formResponse',
+    formAction: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLScP2KRmFnVP9ZqwnqXbBNro0yGPHh8y1uy39uAi2LJaV_CKdA/formResponse',
     
     // Google Form 各個 input 的 name
     input: {
-      id: 'entry.1815052017',
-      name: 'entry.1543576845',
-      gender: 'entry.892230025',
-      phone: 'entry.1003128242',
-      site: 'entry.260985931',
-      msg: 'entry.1782841550'
+      id: 'entry.1486848017',
+      name: 'entry.44110693',
+      gender: 'entry.1140389923',
+      phone: 'entry.383006796',
+      site: 'entry.1695976022',
     },
 
     // loading 效果要不要顯示
