@@ -9,7 +9,6 @@
 .form-control:-ms-input-placeholder,
 .form-control::-ms-input-placeholder,
 .form-control::placeholder{color:#6c757d;opacity:1}
-.form-control:disabled{background:#f1f1f1;cursor:not-allowed}
 .form-control::-webkit-outer-spin-button,
 .form-control::-webkit-inner-spin-button{-webkit-appearance:none;appearance:none}
 .form-control[type=number]{-moz-appearance:textfield}
