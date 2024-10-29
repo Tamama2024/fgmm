@@ -1,4 +1,13 @@
 
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 60%;
+}
+
 .form-control{
   display: flex;
   /* 水平置中 */
